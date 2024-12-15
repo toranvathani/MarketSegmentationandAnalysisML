@@ -6,6 +6,7 @@ The primary aim of such a project is to identify distinct customer segments base
 <br>
 <img src ="images/System Architecture.png"  width=900 height=600>  
 <br>
+Reference : Singh, K. V. Singh, and S. S. Gill, "Big Data Analytics Based Recommender System for Value Added Services (VAS)," 2017 IEEE 7th International Conference on Communication Systems and Networks (COMSNETS), Bengaluru, India, 2017, pp. 116-121, doi: 10.1007/978-981-10-3325-4_14.
 
 ### Collab Link :
 [Market Segmentation and Analysis using ML](https://colab.research.google.com/drive/1ozQpwtUEXncnWXd-zOuSkUuRNtSucGnE?authuser=1)
