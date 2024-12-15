@@ -3,6 +3,10 @@
 ### Objective  :
 The primary aim of such a project is to identify distinct customer segments based on their behaviours, preferences, and demographics. By understanding these segments, businesses can tailor their marketing strategies, product offerings, and customer experiences to better meet the specific needs of each group.
 
+<br>
+<img src ="images/System Architecture.png"  width=900 height=300>  
+<br>
+
 ## Collab Link
 [Market Segmentation and Analysis using ML](https://colab.research.google.com/drive/1ozQpwtUEXncnWXd-zOuSkUuRNtSucGnE?authuser=1)
 
@@ -19,6 +23,9 @@ In this dataset i've used five clustering algorithm to perform segmentation.Thes
 - [GaussianMixture Model based clustering](https://en.wikipedia.org/wiki/Mixture_model)
 ### Final Model  :
 Created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the custoemr belongs to.
+<br>
+<img src ="images/Result.jpg"  width=900 height=300>  
+<br>
 
 ## Author 
 ```
