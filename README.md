@@ -24,7 +24,7 @@ In this dataset i've used five clustering algorithm to perform segmentation.Thes
 ### Final Model  :
 Created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the custoemr belongs to.
 <br>
-<img src ="images/Result.jpg"  width=900 height=300>  
+<img src ="images/Result.jpg"  width=900 height=600>  
 <br>
 
 ## Author 
