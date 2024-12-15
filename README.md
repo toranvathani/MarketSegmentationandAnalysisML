@@ -4,7 +4,7 @@
 The primary aim of such a project is to identify distinct customer segments based on their behaviours, preferences, and demographics. By understanding these segments, businesses can tailor their marketing strategies, product offerings, and customer experiences to better meet the specific needs of each group.
 
 ## Project Link
-
+[Market Segmentation and Analysis using ML](https://colab.research.google.com/drive/1ozQpwtUEXncnWXd-zOuSkUuRNtSucGnE?authuser=1)
 
 ### Data Description : 
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
