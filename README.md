@@ -4,7 +4,7 @@
 The primary aim of such a project is to identify distinct customer segments based on their behaviours, preferences, and demographics. By understanding these segments, businesses can tailor their marketing strategies, product offerings, and customer experiences to better meet the specific needs of each group.
 
 <br>
-<img src ="images/System Architecture.png"  width=900 height=900>  
+<img src ="images/System Architecture.png"  width=900 height=600>  
 <br>
 
 ## Collab Link
