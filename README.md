@@ -7,7 +7,7 @@ The primary aim of such a project is to identify distinct customer segments base
 <img src ="images/System Architecture.png"  width=900 height=600>  
 <br>
 
-## Collab Link
+### Collab Link
 [Market Segmentation and Analysis using ML](https://colab.research.google.com/drive/1ozQpwtUEXncnWXd-zOuSkUuRNtSucGnE?authuser=1)
 
 ### Data Description : 
